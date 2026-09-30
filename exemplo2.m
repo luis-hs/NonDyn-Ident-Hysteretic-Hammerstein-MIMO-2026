@@ -10,7 +10,7 @@ rng(2)
 Q0 = 10;
 Nop0 = 5;
 SNR0 = 20;
-R = 2;
+R = 334;
 
 % Sweep vectors
 Q_vals = [4 6 8 10 12 14 16 20 24];
